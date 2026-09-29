@@ -1,0 +1,16 @@
+{
+  "name":"وِرد — أذكار ومسبحة",
+  "short_name":"وِرد",
+  "description":"تطبيق عربي للأذكار والمسبحة والورد الشخصي مع حفظ التقدم محليًا.",
+  "lang":"ar",
+  "dir":"rtl",
+  "start_url":"./",
+  "scope":"./",
+  "display":"standalone",
+  "orientation":"portrait-primary",
+  "background_color":"#061711",
+  "theme_color":"#071b16",
+  "icons":[
+    {"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any"}
+  ]
+}
